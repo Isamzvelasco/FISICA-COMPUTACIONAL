@@ -38,3 +38,5 @@ plt.ylabel("Variable dependiente (y)")
 plt.title("Regresión Lineal por Métodos Mínimos Cuadrados")
 plt.legend()
 plt.show()
+
+print ("PRUEBA GIT")
